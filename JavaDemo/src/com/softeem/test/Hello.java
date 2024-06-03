@@ -5,5 +5,7 @@ public class Hello {
         System.out.println("hello world");
 
         System.out.println("来了老弟!");
+
+        System.out.println("我是第三行代码");
     }
 }
